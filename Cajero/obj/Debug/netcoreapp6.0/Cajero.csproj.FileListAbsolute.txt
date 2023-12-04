@@ -1,0 +1,16 @@
+C:\Users\feder\Desktop\Otro\tesina_stizza\experimentos\control\Cepero-Diego\Cajero\bin\Debug\netcoreapp6.0\Cajero.exe
+C:\Users\feder\Desktop\Otro\tesina_stizza\experimentos\control\Cepero-Diego\Cajero\bin\Debug\netcoreapp6.0\Cajero.deps.json
+C:\Users\feder\Desktop\Otro\tesina_stizza\experimentos\control\Cepero-Diego\Cajero\bin\Debug\netcoreapp6.0\Cajero.runtimeconfig.json
+C:\Users\feder\Desktop\Otro\tesina_stizza\experimentos\control\Cepero-Diego\Cajero\bin\Debug\netcoreapp6.0\Cajero.dll
+C:\Users\feder\Desktop\Otro\tesina_stizza\experimentos\control\Cepero-Diego\Cajero\bin\Debug\netcoreapp6.0\Cajero.pdb
+C:\Users\feder\Desktop\Otro\tesina_stizza\experimentos\control\Cepero-Diego\Cajero\bin\Debug\netcoreapp6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\feder\Desktop\Otro\tesina_stizza\experimentos\control\Cepero-Diego\Cajero\bin\Debug\netcoreapp6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\feder\Desktop\Otro\tesina_stizza\experimentos\control\Cepero-Diego\Cajero\obj\Debug\netcoreapp6.0\Cajero.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\Otro\tesina_stizza\experimentos\control\Cepero-Diego\Cajero\obj\Debug\netcoreapp6.0\Cajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\Otro\tesina_stizza\experimentos\control\Cepero-Diego\Cajero\obj\Debug\netcoreapp6.0\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\Otro\tesina_stizza\experimentos\control\Cepero-Diego\Cajero\obj\Debug\netcoreapp6.0\Cajero.csproj.CopyComplete
+C:\Users\feder\Desktop\Otro\tesina_stizza\experimentos\control\Cepero-Diego\Cajero\obj\Debug\netcoreapp6.0\Cajero.dll
+C:\Users\feder\Desktop\Otro\tesina_stizza\experimentos\control\Cepero-Diego\Cajero\obj\Debug\netcoreapp6.0\refint\Cajero.dll
+C:\Users\feder\Desktop\Otro\tesina_stizza\experimentos\control\Cepero-Diego\Cajero\obj\Debug\netcoreapp6.0\Cajero.pdb
+C:\Users\feder\Desktop\Otro\tesina_stizza\experimentos\control\Cepero-Diego\Cajero\obj\Debug\netcoreapp6.0\Cajero.genruntimeconfig.cache
+C:\Users\feder\Desktop\Otro\tesina_stizza\experimentos\control\Cepero-Diego\Cajero\obj\Debug\netcoreapp6.0\ref\Cajero.dll

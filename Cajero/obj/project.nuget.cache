@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/eT4DffyShPVj34oANM2hAvLeyz+t2/KgIZghj91Hzq6zglYA9ReG1NXJ3TF3Xv3BrnbduuEzN5kneEwq8ZT1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\feder\\Desktop\\Otro\\tesina_stizza\\experimentos\\control\\Cepero-Diego\\Cajero\\Cajero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\feder\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\feder\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
